@@ -91,6 +91,39 @@ student-related workflows.
 `Java` `Spring Boot` `React.js` `MySQL`
 
 ---
+## 
+
+### 🔴 [MyRedis](YOUR_MYREDIS_REPO_LINK)
+
+**Java · TCP · Concurrency · Distributed Systems · Persistence**
+
+> A Redis-inspired in-memory data store built from scratch in Java to explore database internals, networking, concurrency, and distributed systems.
+
+**Highlights**
+
+* ⚡ TCP server with custom **RESP protocol** implementation
+* 🔒 Concurrent in-memory storage & command execution
+* 💾 **AOF persistence** with recovery support
+* 🔄 **Master–Replica replication**
+* 📦 Strings · Hashes · Lists · Pub/Sub · TTL · Counters
+* ☕ Custom **Java Client SDK**
+
+---
+
+### 🔗 [URL Shortener](YOUR_URL_SHORTENER_REPO_LINK)
+
+**Java · Spring Boot · PostgreSQL · REST API · JPA**
+
+> A production-style RESTful URL-shortening service focused on API design, database persistence, and backend reliability.
+
+**Highlights**
+
+* 🔢 **Base62 encoding** for compact short URLs
+* 🗄️ PostgreSQL persistence with **Spring Data JPA**
+* ↪️ HTTP **302 redirection** to original URLs
+* 📊 Built-in **click analytics**
+* 🛡️ Centralized exception handling & structured API responses
+* 🔌 RESTful API architecture
 
 ## 🧠 Areas of Interest
 
