@@ -93,7 +93,7 @@ student-related workflows.
 ---
 ## 
 
-### 🔴 [MyRedis](YOUR_MYREDIS_REPO_LINK)
+### 🔴 [MyRedis](https://github.com/Dhanush1425/MyRedis.git)
 
 **Java · TCP · Concurrency · Distributed Systems · Persistence**
 
@@ -110,7 +110,7 @@ student-related workflows.
 
 ---
 
-### 🔗 [URL Shortener](YOUR_URL_SHORTENER_REPO_LINK)
+### 🔗 [URL Shortener](https://github.com/Dhanush1425/Url_Shortner.git)
 
 **Java · Spring Boot · PostgreSQL · REST API · JPA**
 
