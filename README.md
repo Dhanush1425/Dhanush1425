@@ -49,7 +49,7 @@ while exploring **distributed systems and system design**.
 
 ## 🚀 Featured Projects
 
-### 📝 Quiz Application
+### 📝 [Quiz Application](https://github.com/Dhanush1425/Quiz-App.git)
 
 **Microservices-based Quiz Platform**
 
@@ -72,7 +72,7 @@ microservices architecture.
 
 ---
 
-### 🏢 College ERP Software
+### 🏢 [College ERP Software](https://github.com/ABINESH174/erp-frontend-2026.git)
 
 **Web-based College ERP System**
 
